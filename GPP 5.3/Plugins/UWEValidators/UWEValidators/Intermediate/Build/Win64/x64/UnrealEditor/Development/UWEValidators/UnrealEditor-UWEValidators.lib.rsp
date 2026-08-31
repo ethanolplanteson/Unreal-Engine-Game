@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UWEValidators.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\gpp-project-assignment-ethanolplanteson\GPP 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\gpp-project-assignment-ethanolplanteson\GPP 5.3\Plugins\UWEValidators\UWEValidators\Intermediate\Build\Win64\x64\UnrealEditor\Development\UWEValidators\Module.UWEValidators.cpp.obj"
+"D:\gpp-project-assignment-ethanolplanteson\GPP 5.3\Plugins\UWEValidators\UWEValidators\Intermediate\Build\Win64\x64\UnrealEditor\Development\UWEValidators\Default.rc2.res"
+/OUT:"D:\gpp-project-assignment-ethanolplanteson\GPP 5.3\Plugins\UWEValidators\UWEValidators\Intermediate\Build\Win64\x64\UnrealEditor\Development\UWEValidators\UnrealEditor-UWEValidators.lib"

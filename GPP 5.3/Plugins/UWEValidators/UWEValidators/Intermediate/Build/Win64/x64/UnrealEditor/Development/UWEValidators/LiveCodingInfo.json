@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UWEValidators.cpp.obj": [
+			"EditorValidator_BlueprintNaming.gen.cpp.obj",
+			"EditorValidator_EmptyTick.gen.cpp.obj",
+			"EditorValidator_GitFileSize.gen.cpp.obj",
+			"EditorValidator_WidgetNaming.gen.cpp.obj",
+			"UEditorValidator_EmptyTick.gen.cpp.obj",
+			"UWEValidators.init.gen.cpp.obj",
+			"ValidatorSettings.gen.cpp.obj",
+			"EditorValidator_BlueprintNaming.cpp.obj",
+			"EditorValidator_EmptyTick.cpp.obj",
+			"EditorValidator_GitFileSize.cpp.obj",
+			"EditorValidator_WidgetNaming.cpp.obj",
+			"UEditorValidator_EmptyTick.cpp.obj",
+			"UWEValidators.cpp.obj",
+			"ValidatorSettings.cpp.obj"
+		]
+	}
+}
